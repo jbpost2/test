@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "HW2/HW2Final.html",
+    "href": "HW2/HW2Final.html",
+    "title": "Homework 1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "HW2/HW2Final.html#quarto",
+    "href": "HW2/HW2Final.html#quarto",
+    "title": "Homework 1",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "HW2/HW2Final.html#running-code",
+    "href": "HW2/HW2Final.html#running-code",
+    "title": "Homework 1",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Homework Repo",
+    "section": "",
+    "text": "Links to homework below\n\nHomework 2"
+  },
+  {
+    "objectID": "index.html#homework",
+    "href": "index.html#homework",
+    "title": "Homework Repo",
+    "section": "",
+    "text": "Links to homework below\n\nHomework 2"
+  }
+]
