@@ -7,4 +7,6 @@ format: html
 
 Links to homework below
 
+- Other thing
 - [Homework 2](HW2/HW2Final.qmd)
+- SOmething else
