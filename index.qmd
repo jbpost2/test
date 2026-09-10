@@ -8,5 +8,7 @@ format: html
 Links to homework below
 
 - Other thing
+- more stuff
 - [Homework 2](HW2/HW2Final.qmd)
 - New thing
+- and another
